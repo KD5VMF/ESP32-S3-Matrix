@@ -1,4 +1,4 @@
-//Movie. The Matrix Screen Saver.
+//Movie. The Matrix. Screen Saver.
 
 #include <Adafruit_NeoPixel.h>
 
