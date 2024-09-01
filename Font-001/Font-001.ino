@@ -15,7 +15,7 @@ void setup() {
 }
 
 void loop() {
-  scrollText("ADAM FIGUEROA...  ", pixels.Color(0, 255, 0));  // Scroll text in Green
+  scrollText("HELLO WORLD...  ", pixels.Color(0, 255, 0));  // Scroll text in Green
 }
 
 void scrollText(const char* text, uint32_t color) {
